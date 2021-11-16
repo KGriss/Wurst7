@@ -23,7 +23,7 @@
   "description.wurst.hack.autosprint": "Vous fait courir automatiquement",
   "description.wurst.hack.autosteal": "Vole automatiquement tout ce qui se trouve dans les coffres et les boîtes de Shulker que vous ouvrez.",
   "description.wurst.hack.autoswim": "Triggers the swimming animation automatically.",
-  "description.wurst.hack.autoswitch": "Switches the item in your hand all the time.\n\n§lProTip:§r Use this in combination with BuildRandom while having a lot of different colored wool or concrete blocks in your hotbar.""Change constamment l'objet dans votre main.\n\n§lConseil de pro :§r Utilisez le en combinaison avec BuildRandom lorsque vous avez beaucoup de laine ou de blocs de béton de couleurs différentes dans votre barre de tâches.",
+  "description.wurst.hack.autoswitch": "Change constamment l'objet dans votre main.\n\n§lConseil de pro :§r Utilisez le en combinaison avec BuildRandom lorsque vous avez beaucoup de laine ou de blocs de béton de couleurs différentes dans votre barre de tâches.",
   "description.wurst.hack.autosword": "Utilise automatiquement la meilleure arme de votre barre d'outils pour attaquer les entités.\nAstuce : cela fonctionne avec le Killaura.",
   "description.wurst.hack.autotool": "Automatically equips the fastest applicable tool in your hotbar when you try to break a block.",
   "description.wurst.hack.autototem": "Automatically moves totems of undying to your off-hand.",
